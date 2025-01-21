@@ -9,7 +9,7 @@ int main (){
 	getline(cin,npm);
 	getline(cin,alamat);
 	
-	cout<<"Nama saya \""<<nama<<"\" dengan NPM "<<npm<<" dan beralamat di "<<alamat<<endl;
+	cout<<"Nama saya  \""<<nama<<"\" dengan NPM "<<npm<<" dan beralamat di "<<alamat<<endl;
 	cout<<endl;
 	cout<<endl;
 	cout<<">\\\\<"<<endl;
